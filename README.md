@@ -20,5 +20,7 @@ bang,b,ang
 
 - Drop the input file on the icon of exe file to convert it to another type.
 
+- Please ensure the input file is encoded in `UTF-8`.
+
 - The generated file is saved in the same directory as the input file, with a file name suffix of `.output.txt` ot `.output.ini`.
 
